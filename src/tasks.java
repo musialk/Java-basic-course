@@ -1,4 +1,4 @@
-public class tasks {
+class tasks {
 
     ToDoItem[] toDoItems = new ToDoItem[3];
 
